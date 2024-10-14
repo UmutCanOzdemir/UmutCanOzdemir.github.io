@@ -11,7 +11,7 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
-    background-image: url(background.png);
+    background-color:#00FFFF. ;
     background-size: cover;
     background-color:#464646;
 }
@@ -26,7 +26,7 @@
     border-radius: 50%;
 
     background: #120e07;
-    color: #00ffff;
+    color: #ff8c00;
 }
 
 .fa:hover {
